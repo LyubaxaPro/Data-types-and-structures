@@ -1,0 +1,8 @@
+list.c
+list.h
+matrix.h
+structs.h
+matrix.c
+output.gv
+input.txt
+main.c

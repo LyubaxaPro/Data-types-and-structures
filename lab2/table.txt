@@ -1,0 +1,2041 @@
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Chery, Korea, yellow, 1233000, new, 1
+Chery, Korea, yellow, 1233000, new, 4
+Chery, Korea, yellow, 1233000, new, 5
+Chery, Korea, yellow, 1233000, new, 0
+Chery, Korea, yellow, 5678000, new, 1
+Chery, Korea, yellow, 5678000, new, 4
+Chery, Korea, yellow, 5678000, new, 5
+Chery, Korea, yellow, 5678000, new, 0
+Chery, Korea, yellow, 768990, new, 1
+Chery, Korea, yellow, 768990, new, 4
+Chery, Korea, yellow, 768990, new, 5
+Chery, Korea, yellow, 768990, new, 0
+Chery, Korea, yellow, 100400, new, 1
+Chery, Korea, yellow, 100400, new, 4
+Chery, Korea, yellow, 100400, new, 5
+Chery, Korea, yellow, 100400, new, 0
+Chery, Korea, yellow, 678900, new, 1
+Chery, Korea, yellow, 678900, new, 4
+Chery, Korea, yellow, 678900, new, 5
+Chery, Korea, yellow, 678900, new, 0
+Chery, Korea, blue, 100000, new, 1
+Chery, Korea, blue, 100000, new, 4
+Chery, Korea, blue, 100000, new, 5
+Chery, Korea, blue, 100000, new, 0
+Chery, Korea, blue, 1254900, new, 1
+Chery, Korea, blue, 1254900, new, 4
+Chery, Korea, blue, 1254900, new, 5
+Chery, Korea, blue, 1254900, new, 0
+Chery, Korea, blue, 345000, new, 1
+Chery, Korea, blue, 345000, new, 4
+Chery, Korea, blue, 345000, new, 5
+Chery, Korea, blue, 345000, new, 0
+Chery, Korea, blue, 789500, new, 1
+Chery, Korea, blue, 789500, new, 4
+Chery, Korea, blue, 789500, new, 5
+Chery, Korea, blue, 789500, new, 0
+Chery, Korea, blue, 232130, new, 1
+Chery, Korea, blue, 232130, new, 4
+Chery, Korea, blue, 232130, new, 5
+Chery, Korea, blue, 232130, new, 0
+Chery, Korea, blue, 121110, new, 1
+Chery, Korea, blue, 121110, new, 4
+Chery, Korea, blue, 121110, new, 5
+Chery, Korea, blue, 121110, new, 0
+Chery, Korea, blue, 456700, new, 1
+Chery, Korea, blue, 456700, new, 4
+Chery, Korea, blue, 456700, new, 5
+Chery, Korea, blue, 456700, new, 0
+Chery, Korea, blue, 1233000, new, 1
+Chery, Korea, blue, 1233000, new, 4
+Chery, Korea, blue, 1233000, new, 5
+Chery, Korea, blue, 1233000, new, 0
+Chery, Korea, blue, 5678000, new, 1
+Chery, Korea, blue, 5678000, new, 4
+Chery, Korea, blue, 5678000, new, 5
+Chery, Korea, blue, 5678000, new, 0
+Chery, Korea, blue, 768990, new, 1
+Chery, Korea, blue, 768990, new, 4
+Chery, Korea, blue, 768990, new, 5
+Chery, Korea, blue, 768990, new, 0
+Chery, Korea, blue, 100400, new, 1
+Chery, Korea, blue, 100400, new, 4
+Chery, Korea, blue, 100400, new, 5
+Chery, Korea, blue, 100400, new, 0
+Chery, Korea, blue, 678900, new, 1
+Chery, Korea, blue, 678900, new, 4
+Chery, Korea, blue, 678900, new, 5
+Chery, Korea, blue, 678900, new, 0
+Chery, Korea, gray, 100000, new, 1
+Chery, Korea, gray, 100000, new, 4
+Chery, Korea, gray, 100000, new, 5
+Chery, Korea, gray, 100000, new, 0
+Chery, Korea, gray, 1254900, new, 1
+Chery, Korea, gray, 1254900, new, 4
+Chery, Korea, gray, 1254900, new, 5
+Chery, Korea, gray, 1254900, new, 0
+Chery, Korea, gray, 345000, new, 1
+Chery, Korea, gray, 345000, new, 4
+Chery, Korea, gray, 345000, new, 5
+Chery, Korea, gray, 345000, new, 0
+Chery, Korea, gray, 789500, new, 1
+Chery, Korea, gray, 789500, new, 4
+Chery, Korea, gray, 789500, new, 5
+Chery, Korea, gray, 789500, new, 0
+Chery, Korea, gray, 232130, new, 1
+Chery, Korea, gray, 232130, new, 4
+Chery, Korea, gray, 232130, new, 5
+Chery, Korea, gray, 232130, new, 0
+Chery, Korea, gray, 121110, new, 1
+Chery, Korea, gray, 121110, new, 4
+Chery, Korea, gray, 121110, new, 5
+Chery, Korea, gray, 121110, new, 0
+Chery, Korea, gray, 456700, new, 1
+Chery, Korea, gray, 456700, new, 4
+Chery, Korea, gray, 456700, new, 5
+Chery, Korea, gray, 456700, new, 0
+Chery, Korea, gray, 1233000, new, 1
+Chery, Korea, gray, 1233000, new, 4
+Chery, Korea, gray, 1233000, new, 5
+Chery, Korea, gray, 1233000, new, 0
+Chery, Korea, gray, 5678000, new, 1
+Chery, Korea, gray, 5678000, new, 4
+Chery, Korea, gray, 5678000, new, 5
+Chery, Korea, gray, 5678000, new, 0
+Chery, Korea, gray, 768990, new, 1
+Chery, Korea, gray, 768990, new, 4
+Chery, Korea, gray, 768990, new, 5
+Chery, Korea, gray, 768990, new, 0
+Chery, Korea, gray, 100400, new, 1
+Chery, Korea, gray, 100400, new, 4
+Chery, Korea, gray, 100400, new, 5
+Chery, Korea, gray, 100400, new, 0
+Chery, Korea, gray, 678900, new, 1
+Chery, Korea, gray, 678900, new, 4
+Chery, Korea, gray, 678900, new, 5
+Chery, Korea, gray, 678900, new, 0
+Chery, USA, black, 100000, new, 1
+Chery, USA, black, 100000, new, 4
+Chery, USA, black, 100000, new, 5
+Chery, USA, black, 100000, new, 0
+Chery, USA, black, 1254900, new, 1
+Chery, USA, black, 1254900, new, 4
+Chery, USA, black, 1254900, new, 5
+Chery, USA, black, 1254900, new, 0
+Chery, USA, black, 345000, new, 1
+Chery, USA, black, 345000, new, 4
+Chery, USA, black, 345000, new, 5
+Chery, USA, black, 345000, new, 0
+Chery, USA, black, 789500, new, 1
+Chery, USA, black, 789500, new, 4
+Chery, USA, black, 789500, new, 5
+Chery, USA, black, 789500, new, 0
+Chery, USA, black, 232130, new, 1
+Chery, USA, black, 232130, new, 4
+Chery, USA, black, 232130, new, 5
+Chery, USA, black, 232130, new, 0
+Chery, USA, black, 121110, new, 1
+Chery, USA, black, 121110, new, 4
+Chery, USA, black, 121110, new, 5
+Chery, USA, black, 121110, new, 0
+Chery, USA, black, 456700, new, 1
+Chery, USA, black, 456700, new, 4
+Chery, USA, black, 456700, new, 5
+Chery, USA, black, 456700, new, 0
+Chery, USA, black, 1233000, new, 1
+Chery, USA, black, 1233000, new, 4
+Chery, USA, black, 1233000, new, 5
+Chery, USA, black, 1233000, new, 0
+Chery, USA, black, 5678000, new, 1
+Chery, USA, black, 5678000, new, 4
+Chery, USA, black, 5678000, new, 5
+Chery, USA, black, 5678000, new, 0
+Chery, USA, black, 768990, new, 1
+Chery, USA, black, 768990, new, 4
+Chery, USA, black, 768990, new, 5
+Chery, USA, black, 768990, new, 0
+Chery, USA, black, 100400, new, 1
+Chery, USA, black, 100400, new, 4
+Chery, USA, black, 100400, new, 5
+Chery, USA, black, 100400, new, 0
+Chery, USA, black, 678900, new, 1
+Chery, USA, black, 678900, new, 4
+Chery, USA, black, 678900, new, 5
+Chery, USA, black, 678900, new, 0
+Chery, USA, white, 100000, new, 1
+Chery, USA, white, 100000, new, 4
+Chery, USA, white, 100000, new, 5
+Chery, USA, white, 100000, new, 0
+Chery, USA, white, 1254900, new, 1
+Chery, USA, white, 1254900, new, 4
+Chery, USA, white, 1254900, new, 5
+Chery, USA, white, 1254900, new, 0
+Chery, USA, white, 345000, new, 1
+Chery, USA, white, 345000, new, 4
+Chery, USA, white, 345000, new, 5
+Chery, USA, white, 345000, new, 0
+Chery, USA, white, 789500, new, 1
+Chery, USA, white, 789500, new, 4
+Chery, USA, white, 789500, new, 5
+Chery, USA, white, 789500, new, 0
+Chery, USA, white, 232130, new, 1
+Chery, USA, white, 232130, new, 4
+Chery, USA, white, 232130, new, 5
+Chery, USA, white, 232130, new, 0
+Chery, USA, white, 121110, new, 1
+Chery, USA, white, 121110, new, 4
+Chery, USA, white, 121110, new, 5
+Chery, USA, white, 121110, new, 0
+Chery, USA, white, 456700, new, 1
+Chery, USA, white, 456700, new, 4
+Chery, USA, white, 456700, new, 5
+Chery, USA, white, 456700, new, 0
+Chery, USA, white, 1233000, new, 1
+Chery, USA, white, 1233000, new, 4
+Chery, USA, white, 1233000, new, 5
+Chery, USA, white, 1233000, new, 0
+Chery, USA, white, 5678000, new, 1
+Chery, USA, white, 5678000, new, 4
+Chery, USA, white, 5678000, new, 5
+Chery, USA, white, 5678000, new, 0
+Chery, USA, white, 768990, new, 1
+Chery, USA, white, 768990, new, 4
+Chery, USA, white, 768990, new, 5
+Chery, USA, white, 768990, new, 0
+Chery, USA, white, 100400, new, 1
+Chery, USA, white, 100400, new, 4
+Chery, USA, white, 100400, new, 5
+Chery, USA, white, 100400, new, 0
+Chery, USA, white, 678900, new, 1
+Chery, USA, white, 678900, new, 4
+Chery, USA, white, 678900, new, 5
+Chery, USA, white, 678900, new, 0
+Chery, USA, pink, 100000, new, 1
+Chery, USA, pink, 100000, new, 4
+Chery, USA, pink, 100000, new, 5
+Chery, USA, pink, 100000, new, 0
+Chery, USA, pink, 1254900, new, 1
+Chery, USA, pink, 1254900, new, 4
+Chery, USA, pink, 1254900, new, 5
+Chery, USA, pink, 1254900, new, 0
+Chery, USA, pink, 345000, new, 1
+Chery, USA, pink, 345000, new, 4
+Chery, USA, pink, 345000, new, 5
+Chery, USA, pink, 345000, new, 0
+Chery, USA, pink, 789500, new, 1
+Chery, USA, pink, 789500, new, 4
+Chery, USA, pink, 789500, new, 5
+Chery, USA, pink, 789500, new, 0
+Chery, USA, pink, 232130, new, 1
+Chery, USA, pink, 232130, new, 4
+Chery, USA, pink, 232130, new, 5
+Chery, USA, pink, 232130, new, 0
+Chery, USA, pink, 121110, new, 1
+Chery, USA, pink, 121110, new, 4
+Chery, USA, pink, 121110, new, 5
+Chery, USA, pink, 121110, new, 0
+Chery, USA, pink, 456700, new, 1
+Chery, USA, pink, 456700, new, 4
+Chery, USA, pink, 456700, new, 5
+Chery, USA, pink, 456700, new, 0
+Chery, USA, pink, 1233000, new, 1
+Chery, USA, pink, 1233000, new, 4
+Chery, USA, pink, 1233000, new, 5
+Chery, USA, pink, 1233000, new, 0
+Chery, USA, pink, 5678000, new, 1
+Chery, USA, pink, 5678000, new, 4
+Chery, USA, pink, 5678000, new, 5
+Chery, USA, pink, 5678000, new, 0
+Chery, USA, pink, 768990, new, 1
+Chery, USA, pink, 768990, new, 4
+Chery, USA, pink, 768990, new, 5
+Chery, USA, pink, 768990, new, 0
+Chery, USA, pink, 100400, new, 1
+Chery, USA, pink, 100400, new, 4
+Chery, USA, pink, 100400, new, 5
+Chery, USA, pink, 100400, new, 0
+Chery, USA, pink, 678900, new, 1
+Chery, USA, pink, 678900, new, 4
+Chery, USA, pink, 678900, new, 5
+Chery, USA, pink, 678900, new, 0
+Chery, USA, red, 100000, new, 1
+Chery, USA, red, 100000, new, 4
+Chery, USA, red, 100000, new, 5
+Chery, USA, red, 100000, new, 0
+Chery, USA, red, 1254900, new, 1
+Chery, USA, red, 1254900, new, 4
+Chery, USA, red, 1254900, new, 5
+Chery, USA, red, 1254900, new, 0
+Chery, USA, red, 345000, new, 1
+Chery, USA, red, 345000, new, 4
+Chery, USA, red, 345000, new, 5
+Chery, USA, red, 345000, new, 0
+Chery, USA, red, 789500, new, 1
+Chery, USA, red, 789500, new, 4
+Chery, USA, red, 789500, new, 5
+Chery, USA, red, 789500, new, 0
+Chery, USA, red, 232130, new, 1
+Chery, USA, red, 232130, new, 4
+Chery, USA, red, 232130, new, 5
+Chery, USA, red, 232130, new, 0
+Chery, USA, red, 121110, new, 1
+Chery, USA, red, 121110, new, 4
+Chery, USA, red, 121110, new, 5
+Chery, USA, red, 121110, new, 0
+Chery, USA, red, 456700, new, 1
+Chery, USA, red, 456700, new, 4
+Chery, USA, red, 456700, new, 5
+Chery, USA, red, 456700, new, 0
+Chery, USA, red, 1233000, new, 1
+Chery, USA, red, 1233000, new, 4
+Chery, USA, red, 1233000, new, 5
+Chery, USA, red, 1233000, new, 0
+Chery, USA, red, 5678000, new, 1
+Chery, USA, red, 5678000, new, 4
+Chery, USA, red, 5678000, new, 5
+Chery, USA, red, 5678000, new, 0
+Chery, USA, red, 768990, new, 1
+Chery, USA, red, 768990, new, 4
+Chery, USA, red, 768990, new, 5
+Chery, USA, red, 768990, new, 0
+Chery, USA, red, 100400, new, 1
+Chery, USA, red, 100400, new, 4
+Chery, USA, red, 100400, new, 5
+Chery, USA, red, 100400, new, 0
+Chery, USA, red, 678900, new, 1
+Chery, USA, red, 678900, new, 4
+Chery, USA, red, 678900, new, 5
+Chery, USA, red, 678900, new, 0
+Chery, USA, yellow, 100000, new, 1
+Chery, USA, yellow, 100000, new, 4
+Chery, USA, yellow, 100000, new, 5
+Chery, USA, yellow, 100000, new, 0
+Chery, USA, yellow, 1254900, new, 1
+Chery, USA, yellow, 1254900, new, 4
+Chery, USA, yellow, 1254900, new, 5
+Chery, USA, yellow, 1254900, new, 0
+Chery, USA, yellow, 345000, new, 1
+Chery, USA, yellow, 345000, new, 4
+Chery, USA, yellow, 345000, new, 5
+Chery, USA, yellow, 345000, new, 0
+Chery, USA, yellow, 789500, new, 1
+Chery, USA, yellow, 789500, new, 4
+Chery, USA, yellow, 789500, new, 5
+Chery, USA, yellow, 789500, new, 0
+Chery, USA, yellow, 232130, new, 1
+Chery, USA, yellow, 232130, new, 4
+Chery, USA, yellow, 232130, new, 5
+Chery, USA, yellow, 232130, new, 0
+Chery, USA, yellow, 121110, new, 1
+Chery, USA, yellow, 121110, new, 4
+Chery, USA, yellow, 121110, new, 5
+Chery, USA, yellow, 121110, new, 0
+Chery, USA, yellow, 456700, new, 1
+Chery, USA, yellow, 456700, new, 4
+Chery, USA, yellow, 456700, new, 5
+Chery, USA, yellow, 456700, new, 0
+Chery, USA, yellow, 1233000, new, 1
+Chery, USA, yellow, 1233000, new, 4
+Chery, USA, yellow, 1233000, new, 5
+Chery, USA, yellow, 1233000, new, 0
+Chery, USA, yellow, 5678000, new, 1
+Chery, USA, yellow, 5678000, new, 4
+Chery, USA, yellow, 5678000, new, 5
+Chery, USA, yellow, 5678000, new, 0
+Chery, USA, yellow, 768990, new, 1
+Chery, USA, yellow, 768990, new, 4
+Chery, USA, yellow, 768990, new, 5
+Chery, USA, yellow, 768990, new, 0
+Chery, USA, yellow, 100400, new, 1
+Chery, USA, yellow, 100400, new, 4
+Chery, USA, yellow, 100400, new, 5
+Chery, USA, yellow, 100400, new, 0
+Chery, USA, yellow, 678900, new, 1
+Chery, USA, yellow, 678900, new, 4
+Chery, USA, yellow, 678900, new, 5
+Chery, USA, yellow, 678900, new, 0
+Chery, USA, blue, 100000, new, 1
+Chery, USA, blue, 100000, new, 4
+Chery, USA, blue, 100000, new, 5
+Chery, USA, blue, 100000, new, 0
+Chery, USA, blue, 1254900, new, 1
+Chery, USA, blue, 1254900, new, 4
+Chery, USA, blue, 1254900, new, 5
+Chery, USA, blue, 1254900, new, 0
+Chery, USA, blue, 345000, new, 1
+Chery, USA, blue, 345000, new, 4
+Chery, USA, blue, 345000, new, 5
+Chery, USA, blue, 345000, new, 0
+Chery, USA, blue, 789500, new, 1
+Chery, USA, blue, 789500, new, 4
+Chery, USA, blue, 789500, new, 5
+Chery, USA, blue, 789500, new, 0
+Chery, USA, blue, 232130, new, 1
+Chery, USA, blue, 232130, new, 4
+Chery, USA, blue, 232130, new, 5
+Chery, USA, blue, 232130, new, 0
+Chery, USA, blue, 121110, new, 1
+Chery, USA, blue, 121110, new, 4
+Chery, USA, blue, 121110, new, 5
+Chery, USA, blue, 121110, new, 0
+Chery, USA, blue, 456700, new, 1
+Chery, USA, blue, 456700, new, 4
+Chery, USA, blue, 456700, new, 5
+Chery, USA, blue, 456700, new, 0
+Chery, USA, blue, 1233000, new, 1
+Chery, USA, blue, 1233000, new, 4
+Chery, USA, blue, 1233000, new, 5
+Chery, USA, blue, 1233000, new, 0
+Chery, USA, blue, 5678000, new, 1
+Chery, USA, blue, 5678000, new, 4
+Chery, USA, blue, 5678000, new, 5
+Chery, USA, blue, 5678000, new, 0
+Chery, USA, blue, 768990, new, 1
+Chery, USA, blue, 768990, new, 4
+Chery, USA, blue, 768990, new, 5
+Chery, USA, blue, 768990, new, 0
+Chery, USA, blue, 100400, new, 1
+Chery, USA, blue, 100400, new, 4
+Chery, USA, blue, 100400, new, 5
+Chery, USA, blue, 100400, new, 0
+Chery, USA, blue, 678900, new, 1
+Chery, USA, blue, 678900, new, 4
+Chery, USA, blue, 678900, new, 5
+Chery, USA, blue, 678900, new, 0
+Chery, USA, gray, 100000, new, 1
+Chery, USA, gray, 100000, new, 4
+Chery, USA, gray, 100000, new, 5
+Chery, USA, gray, 100000, new, 0
+Chery, USA, gray, 1254900, new, 1
+Chery, USA, gray, 1254900, new, 4
+Chery, USA, gray, 1254900, new, 5
+Chery, USA, gray, 1254900, new, 0
+Chery, USA, gray, 345000, new, 1
+Chery, USA, gray, 345000, new, 4
+Chery, USA, gray, 345000, new, 5
+Chery, USA, gray, 345000, new, 0
+Chery, USA, gray, 789500, new, 1
+Chery, USA, gray, 789500, new, 4
+Chery, USA, gray, 789500, new, 5
+Chery, USA, gray, 789500, new, 0
+Chery, USA, gray, 232130, new, 1
+Chery, USA, gray, 232130, new, 4
+Chery, USA, gray, 232130, new, 5
+Chery, USA, gray, 232130, new, 0
+Chery, USA, gray, 121110, new, 1
+Chery, USA, gray, 121110, new, 4
+Chery, USA, gray, 121110, new, 5
+Chery, USA, gray, 121110, new, 0
+Chery, USA, gray, 456700, new, 1
+Chery, USA, gray, 456700, new, 4
+Chery, USA, gray, 456700, new, 5
+Chery, USA, gray, 456700, new, 0
+Chery, USA, gray, 1233000, new, 1
+Chery, USA, gray, 1233000, new, 4
+Chery, USA, gray, 1233000, new, 5
+Chery, USA, gray, 1233000, new, 0
+Chery, USA, gray, 5678000, new, 1
+Chery, USA, gray, 5678000, new, 4
+Chery, USA, gray, 5678000, new, 5
+Chery, USA, gray, 5678000, new, 0
+Chery, USA, gray, 768990, new, 1
+Chery, USA, gray, 768990, new, 4
+Chery, USA, gray, 768990, new, 5
+Chery, USA, gray, 768990, new, 0
+Chery, USA, gray, 100400, new, 1
+Chery, USA, gray, 100400, new, 4
+Chery, USA, gray, 100400, new, 5
+Chery, USA, gray, 100400, new, 0
+Chery, USA, gray, 678900, new, 1
+Chery, USA, gray, 678900, new, 4
+Chery, USA, gray, 678900, new, 5
+Chery, USA, gray, 678900, new, 0
+Chery, Italy, black, 100000, new, 1
+Chery, Italy, black, 100000, new, 4
+Chery, Italy, black, 100000, new, 5
+Chery, Italy, black, 100000, new, 0
+Chery, Italy, black, 1254900, new, 1
+Chery, Italy, black, 1254900, new, 4
+Chery, Italy, black, 1254900, new, 5
+Chery, Italy, black, 1254900, new, 0
+Chery, Italy, black, 345000, new, 1
+Chery, Italy, black, 345000, new, 4
+Chery, Italy, black, 345000, new, 5
+Chery, Italy, black, 345000, new, 0
+Chery, Italy, black, 789500, new, 1
+Chery, Italy, black, 789500, new, 4
+Chery, Italy, black, 789500, new, 5
+Chery, Italy, black, 789500, new, 0
+Chery, Italy, black, 232130, new, 1
+Chery, Italy, black, 232130, new, 4
+Chery, Italy, black, 232130, new, 5
+Chery, Italy, black, 232130, new, 0
+Chery, Italy, black, 121110, new, 1
+Chery, Italy, black, 121110, new, 4
+Chery, Italy, black, 121110, new, 5
+Chery, Italy, black, 121110, new, 0
+Chery, Italy, black, 456700, new, 1
+Chery, Italy, black, 456700, new, 4
+Chery, Italy, black, 456700, new, 5
+Chery, Italy, black, 456700, new, 0
+Chery, Italy, black, 1233000, new, 1
+Chery, Italy, black, 1233000, new, 4
+Chery, Italy, black, 1233000, new, 5
+Chery, Italy, black, 1233000, new, 0
+Chery, Italy, black, 5678000, new, 1
+Chery, Italy, black, 5678000, new, 4
+Chery, Italy, black, 5678000, new, 5
+Chery, Italy, black, 5678000, new, 0
+Chery, Italy, black, 768990, new, 1
+Chery, Italy, black, 768990, new, 4
+Chery, Italy, black, 768990, new, 5
+Chery, Italy, black, 768990, new, 0
+Chery, Italy, black, 100400, new, 1
+Chery, Italy, black, 100400, new, 4
+Chery, Italy, black, 100400, new, 5
+Chery, Italy, black, 100400, new, 0
+Chery, Italy, black, 678900, new, 1
+Chery, Italy, black, 678900, new, 4
+Chery, Italy, black, 678900, new, 5
+Chery, Italy, black, 678900, new, 0
+Chery, Italy, white, 100000, new, 1
+Chery, Italy, white, 100000, new, 4
+Chery, Italy, white, 100000, new, 5
+Chery, Italy, white, 100000, new, 0
+Chery, Italy, white, 1254900, new, 1
+Chery, Italy, white, 1254900, new, 4
+Chery, Italy, white, 1254900, new, 5
+Chery, Italy, white, 1254900, new, 0
+Chery, Italy, white, 345000, new, 1
+Chery, Italy, white, 345000, new, 4
+Chery, Italy, white, 345000, new, 5
+Chery, Italy, white, 345000, new, 0
+Chery, Italy, white, 789500, new, 1
+Chery, Italy, white, 789500, new, 4
+Chery, Italy, white, 789500, new, 5
+Chery, Italy, white, 789500, new, 0
+Chery, Italy, white, 232130, new, 1
+Chery, Italy, white, 232130, new, 4
+Chery, Italy, white, 232130, new, 5
+Chery, Italy, white, 232130, new, 0
+Chery, Italy, white, 121110, new, 1
+Chery, Italy, white, 121110, new, 4
+Chery, Italy, white, 121110, new, 5
+Chery, Italy, white, 121110, new, 0
+Chery, Italy, white, 456700, new, 1
+Chery, Italy, white, 456700, new, 4
+Chery, Italy, white, 456700, new, 5
+Chery, Italy, white, 456700, new, 0
+Chery, Italy, white, 1233000, new, 1
+Chery, Italy, white, 1233000, new, 4
+Chery, Italy, white, 1233000, new, 5
+Chery, Italy, white, 1233000, new, 0
+Chery, Italy, white, 5678000, new, 1
+Chery, Italy, white, 5678000, new, 4
+Chery, Italy, white, 5678000, new, 5
+Chery, Italy, white, 5678000, new, 0
+Chery, Italy, white, 768990, new, 1
+Chery, Italy, white, 768990, new, 4
+Chery, Italy, white, 768990, new, 5
+Chery, Italy, white, 768990, new, 0
+Chery, Italy, white, 100400, new, 1
+Chery, Italy, white, 100400, new, 4
+Chery, Italy, white, 100400, new, 5
+Chery, Italy, white, 100400, new, 0
+Chery, Italy, white, 678900, new, 1
+Chery, Italy, white, 678900, new, 4
+Chery, Italy, white, 678900, new, 5
+Chery, Italy, white, 678900, new, 0
+Chery, Italy, pink, 100000, new, 1
+Chery, Italy, pink, 100000, new, 4
+Chery, Italy, pink, 100000, new, 5
+Chery, Italy, pink, 100000, new, 0
+Chery, Italy, pink, 1254900, new, 1
+Chery, Italy, pink, 1254900, new, 4
+Chery, Italy, pink, 1254900, new, 5
+Chery, Italy, pink, 1254900, new, 0
+Chery, Italy, pink, 345000, new, 1
+Chery, Italy, pink, 345000, new, 4
+Chery, Italy, pink, 345000, new, 5
+Chery, Italy, pink, 345000, new, 0
+Chery, Italy, pink, 789500, new, 1
+Chery, Italy, pink, 789500, new, 4
+Chery, Italy, pink, 789500, new, 5
+Chery, Italy, pink, 789500, new, 0
+Chery, Italy, pink, 232130, new, 1
+Chery, Italy, pink, 232130, new, 4
+Chery, Italy, pink, 232130, new, 5
+Chery, Italy, pink, 232130, new, 0
+Chery, Italy, pink, 121110, new, 1
+Chery, Italy, pink, 121110, new, 4
+Chery, Italy, pink, 121110, new, 5
+Chery, Italy, pink, 121110, new, 0
+Chery, Italy, pink, 456700, new, 1
+Chery, Italy, pink, 456700, new, 4
+Chery, Italy, pink, 456700, new, 5
+Chery, Italy, pink, 456700, new, 0
+Chery, Italy, pink, 1233000, new, 1
+Chery, Italy, pink, 1233000, new, 4
+Chery, Italy, pink, 1233000, new, 5
+Chery, Italy, pink, 1233000, new, 0
+Chery, Italy, pink, 5678000, new, 1
+Chery, Italy, pink, 5678000, new, 4
+Chery, Italy, pink, 5678000, new, 5
+Chery, Italy, pink, 5678000, new, 0
+Chery, Italy, pink, 768990, new, 1
+Chery, Italy, pink, 768990, new, 4
+Chery, Italy, pink, 768990, new, 5
+Chery, Italy, pink, 768990, new, 0
+Chery, Italy, pink, 100400, new, 1
+Chery, Italy, pink, 100400, new, 4
+Chery, Italy, pink, 100400, new, 5
+Chery, Italy, pink, 100400, new, 0
+Chery, Italy, pink, 678900, new, 1
+Chery, Italy, pink, 678900, new, 4
+Chery, Italy, pink, 678900, new, 5
+Chery, Italy, pink, 678900, new, 0
+Chery, Italy, red, 100000, new, 1
+Chery, Italy, red, 100000, new, 4
+Chery, Italy, red, 100000, new, 5
+Chery, Italy, red, 100000, new, 0
+Chery, Italy, red, 1254900, new, 1
+Chery, Italy, red, 1254900, new, 4
+Chery, Italy, red, 1254900, new, 5
+Chery, Italy, red, 1254900, new, 0
+Chery, Italy, red, 345000, new, 1
+Chery, Italy, red, 345000, new, 4
+Chery, Italy, red, 345000, new, 5
+Chery, Italy, red, 345000, new, 0
+Chery, Italy, red, 789500, new, 1
+Chery, Italy, red, 789500, new, 4
+Chery, Italy, red, 789500, new, 5
+Chery, Italy, red, 789500, new, 0
+Chery, Italy, red, 232130, new, 1
+Chery, Italy, red, 232130, new, 4
+Chery, Italy, red, 232130, new, 5
+Chery, Italy, red, 232130, new, 0
+Chery, Italy, red, 121110, new, 1
+Chery, Italy, red, 121110, new, 4
+Chery, Italy, red, 121110, new, 5
+Chery, Italy, red, 121110, new, 0
+Chery, Italy, red, 456700, new, 1
+Chery, Italy, red, 456700, new, 4
+Chery, Italy, red, 456700, new, 5
+Chery, Italy, red, 456700, new, 0
+Chery, Italy, red, 1233000, new, 1
+Chery, Italy, red, 1233000, new, 4
+Chery, Italy, red, 1233000, new, 5
+Chery, Italy, red, 1233000, new, 0
+Chery, Italy, red, 5678000, new, 1
+Chery, Italy, red, 5678000, new, 4
+Chery, Italy, red, 5678000, new, 5
+Chery, Italy, red, 5678000, new, 0
+Chery, Italy, red, 768990, new, 1
+Chery, Italy, red, 768990, new, 4
+Chery, Italy, red, 768990, new, 5
+Chery, Italy, red, 768990, new, 0
+Chery, Italy, red, 100400, new, 1
+Chery, Italy, red, 100400, new, 4
+Chery, Italy, red, 100400, new, 5
+Chery, Italy, red, 100400, new, 0
+Chery, Italy, red, 678900, new, 1
+Chery, Italy, red, 678900, new, 4
+Chery, Italy, red, 678900, new, 5
+Chery, Italy, red, 678900, new, 0
+Chery, Italy, yellow, 100000, new, 1
+Chery, Italy, yellow, 100000, new, 4
+Chery, Italy, yellow, 100000, new, 5
+Chery, Italy, yellow, 100000, new, 0
+Chery, Italy, yellow, 1254900, new, 1
+Chery, Italy, yellow, 1254900, new, 4
+Chery, Italy, yellow, 1254900, new, 5
+Chery, Italy, yellow, 1254900, new, 0
+Chery, Italy, yellow, 345000, new, 1
+Chery, Italy, yellow, 345000, new, 4
+Chery, Italy, yellow, 345000, new, 5
+Chery, Italy, yellow, 345000, new, 0
+Chery, Italy, yellow, 789500, new, 1
+Chery, Italy, yellow, 789500, new, 4
+Chery, Italy, yellow, 789500, new, 5
+Chery, Italy, yellow, 789500, new, 0
+Chery, Italy, yellow, 232130, new, 1
+Chery, Italy, yellow, 232130, new, 4
+Chery, Italy, yellow, 232130, new, 5
+Chery, Italy, yellow, 232130, new, 0
+Chery, Italy, yellow, 121110, new, 1
+Chery, Italy, yellow, 121110, new, 4
+Chery, Italy, yellow, 121110, new, 5
+Chery, Italy, yellow, 121110, new, 0
+Chery, Italy, yellow, 456700, new, 1
+Chery, Italy, yellow, 456700, new, 4
+Chery, Italy, yellow, 456700, new, 5
+Chery, Italy, yellow, 456700, new, 0
+Chery, Italy, yellow, 1233000, new, 1
+Chery, Italy, yellow, 1233000, new, 4
+Chery, Italy, yellow, 1233000, new, 5
+Chery, Italy, yellow, 1233000, new, 0
+Chery, Italy, yellow, 5678000, new, 1
+Chery, Italy, yellow, 5678000, new, 4
+Chery, Italy, yellow, 5678000, new, 5
+Chery, Italy, yellow, 5678000, new, 0
+Chery, Italy, yellow, 768990, new, 1
+Chery, Italy, yellow, 768990, new, 4
+Chery, Italy, yellow, 768990, new, 5
+Chery, Italy, yellow, 768990, new, 0
+Chery, Italy, yellow, 100400, new, 1
+Chery, Italy, yellow, 100400, new, 4
+Chery, Italy, yellow, 100400, new, 5
+Chery, Italy, yellow, 100400, new, 0
+Chery, Italy, yellow, 678900, new, 1
+Chery, Italy, yellow, 678900, new, 4
+Chery, Italy, yellow, 678900, new, 5
+Chery, Italy, yellow, 678900, new, 0
+Chery, Italy, blue, 100000, new, 1
+Alfa, Italy, yellow, 121110, new, 0
+Alfa, Italy, yellow, 456700, new, 1
+Alfa, Italy, yellow, 456700, new, 4
+Alfa, Italy, yellow, 456700, new, 5
+Alfa, Italy, yellow, 456700, new, 0
+Alfa, Italy, yellow, 1233000, new, 1
+Alfa, Italy, yellow, 1233000, new, 4
+Alfa, Italy, yellow, 1233000, new, 5
+Alfa, Italy, yellow, 1233000, new, 0
+Alfa, Italy, yellow, 5678000, new, 1
+Alfa, Italy, yellow, 5678000, new, 4
+Alfa, Italy, yellow, 5678000, new, 5
+Alfa, Italy, yellow, 5678000, new, 0
+Alfa, Italy, yellow, 768990, new, 1
+Alfa, Italy, yellow, 768990, new, 4
+Alfa, Italy, yellow, 768990, new, 5
+Alfa, Italy, yellow, 768990, new, 0
+Alfa, Italy, yellow, 100400, new, 1
+Alfa, Italy, yellow, 100400, new, 4
+Alfa, Italy, yellow, 100400, new, 5
+Alfa, Italy, yellow, 100400, new, 0
+Alfa, Italy, yellow, 678900, new, 1
+Alfa, Italy, yellow, 678900, new, 4
+Alfa, Italy, yellow, 678900, new, 5
+Alfa, Italy, yellow, 678900, new, 0
+Alfa, Italy, blue, 100000, new, 1
+Alfa, Italy, blue, 100000, new, 4
+Alfa, Italy, blue, 100000, new, 5
+Alfa, Italy, blue, 100000, new, 0
+Alfa, Italy, blue, 1254900, new, 1
+Alfa, Italy, blue, 1254900, new, 4
+Alfa, Italy, blue, 1254900, new, 5
+Alfa, Italy, blue, 1254900, new, 0
+Alfa, Italy, blue, 345000, new, 1
+Alfa, Italy, blue, 345000, new, 4
+Alfa, Italy, blue, 345000, new, 5
+Alfa, Italy, blue, 345000, new, 0
+Alfa, Italy, blue, 789500, new, 1
+Alfa, Italy, blue, 789500, new, 4
+Alfa, Italy, blue, 789500, new, 5
+Alfa, Italy, blue, 789500, new, 0
+Alfa, Italy, blue, 232130, new, 1
+Alfa, Italy, blue, 232130, new, 4
+Alfa, Italy, blue, 232130, new, 5
+Alfa, Italy, blue, 232130, new, 0
+Alfa, Italy, blue, 121110, new, 1
+Alfa, Italy, blue, 121110, new, 4
+Alfa, Italy, blue, 121110, new, 5
+Alfa, Italy, blue, 121110, new, 0
+Alfa, Italy, blue, 456700, new, 1
+Alfa, Italy, blue, 456700, new, 4
+Alfa, Italy, blue, 456700, new, 5
+Alfa, Italy, blue, 456700, new, 0
+Alfa, Italy, blue, 1233000, new, 1
+Alfa, Italy, blue, 1233000, new, 4
+Alfa, Italy, blue, 1233000, new, 5
+Alfa, Italy, blue, 1233000, new, 0
+Alfa, Italy, blue, 5678000, new, 1
+Alfa, Italy, blue, 5678000, new, 4
+Alfa, Italy, blue, 5678000, new, 5
+Alfa, Italy, blue, 5678000, new, 0
+Alfa, Italy, blue, 768990, new, 1
+Alfa, Italy, blue, 768990, new, 4
+Alfa, Italy, blue, 768990, new, 5
+Alfa, Italy, blue, 768990, new, 0
+Alfa, Italy, blue, 100400, new, 1
+Alfa, Italy, blue, 100400, new, 4
+Alfa, Italy, blue, 100400, new, 5
+Alfa, Italy, blue, 100400, new, 0
+Alfa, Italy, blue, 678900, new, 1
+Alfa, Italy, blue, 678900, new, 4
+Alfa, Italy, blue, 678900, new, 5
+Alfa, Italy, blue, 678900, new, 0
+Alfa, Italy, gray, 100000, new, 1
+Alfa, Italy, gray, 100000, new, 4
+Alfa, Italy, gray, 100000, new, 5
+Alfa, Italy, gray, 100000, new, 0
+Alfa, Italy, gray, 1254900, new, 1
+Alfa, Italy, gray, 1254900, new, 4
+Alfa, Italy, gray, 1254900, new, 5
+Alfa, Italy, gray, 1254900, new, 0
+Alfa, Italy, gray, 345000, new, 1
+Alfa, Italy, gray, 345000, new, 4
+Alfa, Italy, gray, 345000, new, 5
+Alfa, Italy, gray, 345000, new, 0
+Alfa, Italy, gray, 789500, new, 1
+Alfa, Italy, gray, 789500, new, 4
+Alfa, Italy, gray, 789500, new, 5
+Alfa, Italy, gray, 789500, new, 0
+Alfa, Italy, gray, 232130, new, 1
+Alfa, Italy, gray, 232130, new, 4
+Alfa, Italy, gray, 232130, new, 5
+Alfa, Italy, gray, 232130, new, 0
+Alfa, Italy, gray, 121110, new, 1
+Alfa, Italy, gray, 121110, new, 4
+Alfa, Italy, gray, 121110, new, 5
+Alfa, Italy, gray, 121110, new, 0
+Alfa, Italy, gray, 456700, new, 1
+Alfa, Italy, gray, 456700, new, 4
+Alfa, Italy, gray, 456700, new, 5
+Alfa, Italy, gray, 456700, new, 0
+Alfa, Italy, gray, 1233000, new, 1
+Alfa, Italy, gray, 1233000, new, 4
+Alfa, Italy, gray, 1233000, new, 5
+Alfa, Italy, gray, 1233000, new, 0
+Alfa, Italy, gray, 5678000, new, 1
+Alfa, Italy, gray, 5678000, new, 4
+Alfa, Italy, gray, 5678000, new, 5
+Alfa, Italy, gray, 5678000, new, 0
+Alfa, Italy, gray, 768990, new, 1
+Alfa, Italy, gray, 768990, new, 4
+Alfa, Italy, gray, 768990, new, 5
+Alfa, Italy, gray, 768990, new, 0
+Alfa, Italy, gray, 100400, new, 1
+Alfa, Italy, gray, 100400, new, 4
+Alfa, Italy, gray, 100400, new, 5
+Alfa, Italy, gray, 100400, new, 0
+Alfa, Italy, gray, 678900, new, 1
+Alfa, Italy, gray, 678900, new, 4
+Alfa, Italy, gray, 678900, new, 5
+Alfa, Italy, gray, 678900, new, 0
+Chery, Japen, gray, 345000, new, 5
+Chery, Japen, gray, 345000, new, 0
+Chery, Japen, gray, 789500, new, 1
+Chery, Japen, gray, 789500, new, 4
+Chery, Japen, gray, 789500, new, 5
+Chery, Japen, gray, 789500, new, 0
+Chery, Japen, gray, 232130, new, 1
+Chery, Japen, gray, 232130, new, 4
+Chery, Japen, gray, 232130, new, 5
+Chery, Japen, gray, 232130, new, 0
+Chery, Japen, gray, 121110, new, 1
+Chery, Japen, gray, 121110, new, 4
+Chery, Japen, gray, 121110, new, 5
+Chery, Japen, gray, 121110, new, 0
+Chery, Japen, gray, 456700, new, 1
+Chery, Japen, gray, 456700, new, 4
+Chery, Japen, gray, 456700, new, 5
+Chery, Japen, gray, 456700, new, 0
+Chery, Japen, gray, 1233000, new, 1
+Chery, Japen, gray, 1233000, new, 4
+Chery, Japen, gray, 1233000, new, 5
+Chery, Japen, gray, 1233000, new, 0
+Chery, Japen, gray, 5678000, new, 1
+Chery, Japen, gray, 5678000, new, 4
+Chery, Japen, gray, 5678000, new, 5
+Chery, Japen, gray, 5678000, new, 0
+Chery, Japen, gray, 768990, new, 1
+Chery, Japen, gray, 768990, new, 4
+Chery, Japen, gray, 768990, new, 5
+Chery, Japen, gray, 768990, new, 0
+Chery, Japen, gray, 100400, new, 1
+Chery, Japen, gray, 100400, new, 4
+Chery, Japen, gray, 100400, new, 5
+Chery, Japen, gray, 100400, new, 0
+Chery, Japen, gray, 678900, new, 1
+Chery, Japen, gray, 678900, new, 4
+Chery, Japen, gray, 678900, new, 5
+Chery, Japen, gray, 678900, new, 0
+Chery, Korea, black, 100000, new, 1
+Chery, Korea, black, 100000, new, 4
+Chery, Korea, black, 100000, new, 5
+Chery, Korea, black, 100000, new, 0
+Chery, Korea, black, 1254900, new, 1
+Chery, Korea, black, 1254900, new, 4
+Chery, Korea, black, 1254900, new, 5
+Chery, Korea, black, 1254900, new, 0
+Chery, Korea, black, 345000, new, 1
+Chery, Korea, black, 345000, new, 4
+Chery, Korea, black, 345000, new, 5
+Chery, Korea, black, 345000, new, 0
+Chery, Korea, black, 789500, new, 1
+Chery, Korea, black, 789500, new, 4
+Chery, Korea, black, 789500, new, 5
+Chery, Korea, black, 789500, new, 0
+Chery, Korea, black, 232130, new, 1
+Chery, Korea, black, 232130, new, 4
+Chery, Korea, black, 232130, new, 5
+Chery, Korea, black, 232130, new, 0
+Chery, Korea, black, 121110, new, 1
+Chery, Korea, black, 121110, new, 4
+Chery, Korea, black, 121110, new, 5
+Chery, Korea, black, 121110, new, 0
+Chery, Korea, black, 456700, new, 1
+Chery, Korea, black, 456700, new, 4
+Chery, Korea, black, 456700, new, 5
+Chery, Korea, black, 456700, new, 0
+Chery, Korea, black, 1233000, new, 1
+Chery, Korea, black, 1233000, new, 4
+Chery, Korea, black, 1233000, new, 5
+Chery, Korea, black, 1233000, new, 0
+Chery, Korea, black, 5678000, new, 1
+Chery, Korea, black, 5678000, new, 4
+Chery, Korea, black, 5678000, new, 5
+Chery, Korea, black, 5678000, new, 0
+Chery, Korea, black, 768990, new, 1
+Chery, Korea, black, 768990, new, 4
+Chery, Korea, black, 768990, new, 5
+Chery, Korea, black, 768990, new, 0
+Chery, Korea, black, 100400, new, 1
+Chery, Korea, black, 100400, new, 4
+Chery, Korea, black, 100400, new, 5
+Chery, Korea, black, 100400, new, 0
+Chery, Korea, black, 678900, new, 1
+Chery, Korea, black, 678900, new, 4
+Chery, Korea, black, 678900, new, 5
+Chery, Korea, black, 678900, new, 0
+Chery, Korea, white, 100000, new, 1
+Chery, Korea, white, 100000, new, 4
+Chery, Korea, white, 100000, new, 5
+Chery, Korea, white, 100000, new, 0
+Chery, Korea, white, 1254900, new, 1
+Chery, Korea, white, 1254900, new, 4
+Chery, Korea, white, 1254900, new, 5
+Chery, Korea, white, 1254900, new, 0
+Chery, Korea, white, 345000, new, 1
+Chery, Korea, white, 345000, new, 4
+Chery, Korea, white, 345000, new, 5
+Chery, Korea, white, 345000, new, 0
+Chery, Korea, white, 789500, new, 1
+Chery, Korea, white, 789500, new, 4
+Chery, Korea, white, 789500, new, 5
+Chery, Korea, white, 789500, new, 0
+Chery, Korea, white, 232130, new, 1
+Chery, Korea, white, 232130, new, 4
+Chery, Korea, white, 232130, new, 5
+Chery, Korea, white, 232130, new, 0
+Chery, Korea, white, 121110, new, 1
+Chery, Korea, white, 121110, new, 4
+Chery, Korea, white, 121110, new, 5
+Chery, Korea, white, 121110, new, 0
+Chery, Korea, white, 456700, new, 1
+Chery, Korea, white, 456700, new, 4
+Chery, Korea, white, 456700, new, 5
+Chery, Korea, white, 456700, new, 0
+Chery, Korea, white, 1233000, new, 1
+Chery, Korea, white, 1233000, new, 4
+Chery, Korea, white, 1233000, new, 5
+Chery, Korea, white, 1233000, new, 0
+Chery, Korea, white, 5678000, new, 1
+Chery, Korea, white, 5678000, new, 4
+Chery, Korea, white, 5678000, new, 5
+Chery, Korea, white, 5678000, new, 0
+Chery, Korea, white, 768990, new, 1
+Chery, Korea, white, 768990, new, 4
+Chery, Korea, white, 768990, new, 5
+Chery, Korea, white, 768990, new, 0
+Chery, Korea, white, 100400, new, 1
+Chery, Korea, white, 100400, new, 4
+Chery, Korea, white, 100400, new, 5
+Chery, Korea, white, 100400, new, 0
+Chery, Korea, white, 678900, new, 1
+Chery, Korea, white, 678900, new, 4
+Chery, Korea, white, 678900, new, 5
+Chery, Korea, white, 678900, new, 0
+Chery, Korea, pink, 100000, new, 1
+Chery, Korea, pink, 100000, new, 4
+Chery, Korea, pink, 100000, new, 5
+Chery, Korea, pink, 100000, new, 0
+Chery, Korea, pink, 1254900, new, 1
+Chery, Korea, pink, 1254900, new, 4
+Chery, Korea, pink, 1254900, new, 5
+Chery, Korea, pink, 1254900, new, 0
+Chery, Korea, pink, 345000, new, 1
+Chery, Korea, pink, 345000, new, 4
+Chery, Korea, pink, 345000, new, 5
+Chery, Korea, pink, 345000, new, 0
+Chery, Korea, pink, 789500, new, 1
+Chery, Korea, pink, 789500, new, 4
+Chery, Korea, pink, 789500, new, 5
+Chery, Korea, pink, 789500, new, 0
+Chery, Korea, pink, 232130, new, 1
+Chery, Korea, pink, 232130, new, 4
+Chery, Korea, pink, 232130, new, 5
+Chery, Korea, pink, 232130, new, 0
+Chery, Korea, pink, 121110, new, 1
+Chery, Korea, pink, 121110, new, 4
+Chery, Korea, pink, 121110, new, 5
+Chery, Korea, pink, 121110, new, 0
+Chery, Korea, pink, 456700, new, 1
+Chery, Korea, pink, 456700, new, 4
+Chery, Korea, pink, 456700, new, 5
+Chery, Korea, pink, 456700, new, 0
+Chery, Korea, pink, 1233000, new, 1
+Chery, Korea, pink, 1233000, new, 4
+Chery, Korea, pink, 1233000, new, 5
+Chery, Korea, pink, 1233000, new, 0
+Chery, Korea, pink, 5678000, new, 1
+Chery, Korea, pink, 5678000, new, 4
+Chery, Korea, pink, 5678000, new, 5
+Chery, Korea, pink, 5678000, new, 0
+Chery, Korea, pink, 768990, new, 1
+Chery, Korea, pink, 768990, new, 4
+Chery, Korea, pink, 768990, new, 5
+Chery, Korea, pink, 768990, new, 0
+Chery, Korea, pink, 100400, new, 1
+Chery, Korea, pink, 100400, new, 4
+Chery, Korea, pink, 100400, new, 5
+Chery, Korea, pink, 100400, new, 0
+Chery, Korea, pink, 678900, new, 1
+Chery, Korea, pink, 678900, new, 4
+Chery, Korea, pink, 678900, new, 5
+Chery, Korea, pink, 678900, new, 0
+Chery, Korea, red, 100000, new, 8
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 3400400, new, 3
+Buick, China, black, 590000, new, 1
+Buick, China, white, 290000, old, 1987, 189000, 0, 1
+Buick, China, green, 600000, old, 2002, 207000, 1, 3
+Buick, China, pink, 780000, new, 3
+Chery, Norway, gray, 1069900, new, 2
+Chery, Wales, yellow, 799900, new, 1
+Chery, Norway, gray, 700000, old, 2004, 250000, 0, 2
+Chery, Wales, blue, 580000, old, 1992, 140000, 0, 1
+Ford, Germany, gray, 2610000, new, 5
+Ford, Germany, gray, 1500000, old, 2005, 500000, 3, 5
+Ford, Germany, yellow, 610000, old, 1990, 130000, 0, 1
+Ford, Germany, yellow, 1200500, new, 4
+Ford, Germany, blue, 1323300, new, 3
+Ford, Germany, green, 900000, old, 1989, 100000, 0, 1
+Honda, Japen, pink, 450000, old, 2003, 230000, 1, 1
+Honda, Japen, pink, 700000, new, 3
+Honda, Japen, yellow, 909000, new, 5
+Honda, Japen, yellow, 600000, old, 2000, 120000, 0, 1
+Honda, Japen, white, 743800, new, 5
+Honda, Japen, white, 543800, old, 2011, 100000, 0, 1
+Oley, China, red, 491000, new, 4
+Oley, China, white, 250000, old, 2010, 130000, 0, 1
+Oley, China, red, 260000, old, 2010, 130000, 5, 2
+Oley, China, pink, 591000, new, 2
+Oley, China, black, 150000, old, 2003, 150000, 0, 1
+Logan, Korea, black, 489000, new, 4
+Logan, Korea, white, 592000, new, 3
+Logan, Korea, pink, 300000, old, 2018, 125000, 0, 1
+Logan, Korea, white, 310000, old, 2017, 125000, 2, 3
+Logan, Korea, black, 300000, new, 1
+Logan, Korea, red, 400000, new, 5
+Tesla, USA, red, 6950000, new, 10
+Tesla, USA, black, 4504519, new, 3
+Tesla, USA, white, 6800200, new, 4
+Tesla, USA, black, 5000000, old, 2008, 400000, 0, 1
+Tesla, USA, red, 45000000, old, 2007, 350000, 2, 5
+Tesla, USA, white, 3580800, old, 2008, 145000, 0, 1
+Alfa, Italy, black, 2500500, new, 5
+Alfa, Italy, white, 1255000, old, 2005, 20000, 0, 1
+Alfa, Italy, red, 108000, new, 3
+Buick, China, black, 100000, old, 2004, 123456, 0, 1
+Buick, China, black, 100000, old, 2004, 123456, 1, 1
+Buick, China, black, 100000, old, 2004, 123456, 2, 3
+Buick, China, black, 100000, old, 2004, 123456, 3, 4
+Buick, China, black, 100000, old, 2004, 123456, 5, 6
+Buick, China, black, 100000, old, 2003, 125000, 0, 1
+Buick, China, black, 100000, old, 2003, 125000, 1, 1
+Buick, China, black, 100000, old, 2003, 125000, 2, 3
+Buick, China, black, 100000, old, 2003, 125000, 3, 4
+Buick, China, black, 100000, old, 2003, 125000, 5, 6
+Buick, China, black, 100000, old, 1989, 45600, 0, 1
+Buick, China, black, 100000, old, 1989, 45600, 1, 1
+Buick, China, black, 100000, old, 1989, 45600, 2, 3
+Buick, China, black, 100000, old, 1989, 45600, 3, 4
+Buick, China, black, 100000, old, 1989, 45600, 5, 6
+Buick, China, black, 1254900, old, 2004, 123456, 0, 1
+Buick, China, black, 1254900, old, 2004, 123456, 1, 1
+Buick, China, black, 1254900, old, 2004, 123456, 2, 3
+Buick, China, black, 1254900, old, 2004, 123456, 3, 4
+Buick, China, black, 1254900, old, 2004, 123456, 5, 6
+Buick, China, black, 1254900, old, 2003, 125000, 0, 1
+Buick, China, black, 1254900, old, 2003, 125000, 1, 1
+Buick, China, black, 1254900, old, 2003, 125000, 2, 3
+Buick, China, black, 1254900, old, 2003, 125000, 3, 4
+Buick, China, black, 1254900, old, 2003, 125000, 5, 6
+Buick, China, black, 1254900, old, 1989, 45600, 0, 1
+Buick, China, black, 1254900, old, 1989, 45600, 1, 1
+Buick, China, black, 1254900, old, 1989, 45600, 2, 3
+Buick, China, black, 1254900, old, 1989, 45600, 3, 4
+Buick, China, black, 1254900, old, 1989, 45600, 5, 6
+Buick, China, black, 345000, old, 2004, 123456, 0, 1
+Buick, China, black, 345000, old, 2004, 123456, 1, 1
+Buick, China, black, 345000, old, 2004, 123456, 2, 3
+Buick, China, black, 345000, old, 2004, 123456, 3, 4
+Buick, China, black, 345000, old, 2004, 123456, 5, 6
+Buick, China, black, 345000, old, 2003, 125000, 0, 1
+Buick, China, black, 345000, old, 2003, 125000, 1, 1
+Buick, China, black, 345000, old, 2003, 125000, 2, 3
+Buick, China, black, 345000, old, 2003, 125000, 3, 4
+Buick, China, black, 345000, old, 2003, 125000, 5, 6
+Buick, China, black, 345000, old, 1989, 45600, 0, 1
+Buick, China, black, 345000, old, 1989, 45600, 1, 1
+Buick, China, black, 345000, old, 1989, 45600, 2, 3
+Buick, China, black, 345000, old, 1989, 45600, 3, 4
+Buick, China, black, 345000, old, 1989, 45600, 5, 6
+Buick, China, black, 789500, old, 2004, 123456, 0, 1
+Buick, China, black, 789500, old, 2004, 123456, 1, 1
+Buick, China, black, 789500, old, 2004, 123456, 2, 3
+Buick, China, black, 789500, old, 2004, 123456, 3, 4
+Buick, China, black, 789500, old, 2004, 123456, 5, 6
+Buick, China, black, 789500, old, 2003, 125000, 0, 1
+Buick, China, black, 789500, old, 2003, 125000, 1, 1
+Buick, China, black, 789500, old, 2003, 125000, 2, 3
+Buick, China, black, 789500, old, 2003, 125000, 3, 4
+Buick, China, black, 789500, old, 2003, 125000, 5, 6
+Buick, China, black, 789500, old, 1989, 45600, 0, 1
+Buick, China, black, 789500, old, 1989, 45600, 1, 1
+Buick, China, black, 789500, old, 1989, 45600, 2, 3
+Buick, China, black, 789500, old, 1989, 45600, 3, 4
+Buick, China, black, 789500, old, 1989, 45600, 5, 6
+Buick, China, black, 232130, old, 2004, 123456, 0, 1
+Buick, China, black, 232130, old, 2004, 123456, 1, 1
+Buick, China, black, 232130, old, 2004, 123456, 2, 3
+Buick, China, black, 232130, old, 2004, 123456, 3, 4
+Buick, China, black, 232130, old, 2004, 123456, 5, 6
+Buick, China, black, 232130, old, 2003, 125000, 0, 1
+Buick, China, black, 232130, old, 2003, 125000, 1, 1
+Buick, China, black, 232130, old, 2003, 125000, 2, 3
+Buick, China, black, 232130, old, 2003, 125000, 3, 4
+Buick, China, black, 232130, old, 2003, 125000, 5, 6
+Buick, China, black, 232130, old, 1989, 45600, 0, 1
+Buick, China, black, 232130, old, 1989, 45600, 1, 1
+Buick, China, black, 232130, old, 1989, 45600, 2, 3
+Buick, China, black, 232130, old, 1989, 45600, 3, 4
+Buick, China, black, 232130, old, 1989, 45600, 5, 6
+Buick, China, black, 121110, old, 2004, 123456, 0, 1
+Buick, China, black, 121110, old, 2004, 123456, 1, 1
+Buick, China, black, 121110, old, 2004, 123456, 2, 3
+Buick, China, black, 121110, old, 2004, 123456, 3, 4
+Buick, China, black, 121110, old, 2004, 123456, 5, 6
+Buick, China, black, 121110, old, 2003, 125000, 0, 1
+Buick, China, black, 121110, old, 2003, 125000, 1, 1
+Buick, China, black, 121110, old, 2003, 125000, 2, 3
+Buick, China, black, 121110, old, 2003, 125000, 3, 4
+Buick, China, black, 121110, old, 2003, 125000, 5, 6
+Buick, China, black, 121110, old, 1989, 45600, 0, 1
+Buick, China, black, 121110, old, 1989, 45600, 1, 1
+Buick, China, black, 121110, old, 1989, 45600, 2, 3
+Buick, China, black, 121110, old, 1989, 45600, 3, 4
+Buick, China, black, 121110, old, 1989, 45600, 5, 6
+Buick, China, black, 456700, old, 2004, 123456, 0, 1
+Buick, China, black, 456700, old, 2004, 123456, 1, 1
+Buick, China, black, 456700, old, 2004, 123456, 2, 3
+Buick, China, black, 456700, old, 2004, 123456, 3, 4
+Buick, China, black, 456700, old, 2004, 123456, 5, 6
+Buick, China, black, 456700, old, 2003, 125000, 0, 1
+Buick, China, black, 456700, old, 2003, 125000, 1, 1
+Buick, China, black, 456700, old, 2003, 125000, 2, 3
+Buick, China, black, 456700, old, 2003, 125000, 3, 4
+Buick, China, black, 456700, old, 2003, 125000, 5, 6
+Buick, China, black, 456700, old, 1989, 45600, 0, 1
+Buick, China, black, 456700, old, 1989, 45600, 1, 1
+Buick, China, black, 456700, old, 1989, 45600, 2, 3
+Buick, China, black, 456700, old, 1989, 45600, 3, 4
+Buick, China, black, 456700, old, 1989, 45600, 5, 6
+Buick, China, black, 1233000, old, 2004, 123456, 0, 1
+Buick, China, black, 1233000, old, 2004, 123456, 1, 1
+Buick, China, black, 1233000, old, 2004, 123456, 2, 3
+Buick, China, black, 1233000, old, 2004, 123456, 3, 4
+Buick, China, black, 1233000, old, 2004, 123456, 5, 6
+Buick, China, black, 1233000, old, 2003, 125000, 0, 1
+Buick, China, black, 1233000, old, 2003, 125000, 1, 1
+Buick, China, black, 1233000, old, 2003, 125000, 2, 3
+Buick, China, black, 1233000, old, 2003, 125000, 3, 4
+Buick, China, black, 1233000, old, 2003, 125000, 5, 6
+Buick, China, black, 1233000, old, 1989, 45600, 0, 1
+Buick, China, black, 1233000, old, 1989, 45600, 1, 1
+Buick, China, black, 1233000, old, 1989, 45600, 2, 3
+Buick, China, black, 1233000, old, 1989, 45600, 3, 4
+Buick, China, black, 1233000, old, 1989, 45600, 5, 6
+Buick, China, black, 5678000, old, 2004, 123456, 0, 1
+Buick, China, black, 5678000, old, 2004, 123456, 1, 1
+Buick, China, black, 5678000, old, 2004, 123456, 2, 3
+Buick, China, black, 5678000, old, 2004, 123456, 3, 4
+Buick, China, black, 5678000, old, 2004, 123456, 5, 6
+Buick, China, black, 5678000, old, 2003, 125000, 0, 1
+Buick, China, black, 5678000, old, 2003, 125000, 1, 1
+Buick, China, black, 5678000, old, 2003, 125000, 2, 3
+Buick, China, black, 5678000, old, 2003, 125000, 3, 4
+Buick, China, black, 5678000, old, 2003, 125000, 5, 6
+Buick, China, black, 5678000, old, 1989, 45600, 0, 1
+Buick, China, black, 5678000, old, 1989, 45600, 1, 1
+Buick, China, black, 5678000, old, 1989, 45600, 2, 3
+Buick, China, black, 5678000, old, 1989, 45600, 3, 4
+Buick, China, black, 5678000, old, 1989, 45600, 5, 6
+Buick, China, black, 768990, old, 2004, 123456, 0, 1
+Buick, China, black, 768990, old, 2004, 123456, 1, 1
+Buick, China, black, 768990, old, 2004, 123456, 2, 3
+Buick, China, black, 768990, old, 2004, 123456, 3, 4
+Buick, China, black, 768990, old, 2004, 123456, 5, 6
+Buick, China, black, 768990, old, 2003, 125000, 0, 1
+Buick, China, black, 768990, old, 2003, 125000, 1, 1
+Buick, China, black, 768990, old, 2003, 125000, 2, 3
+Buick, China, black, 768990, old, 2003, 125000, 3, 4
+Buick, China, black, 768990, old, 2003, 125000, 5, 6
+Buick, China, black, 768990, old, 1989, 45600, 0, 1
+Buick, China, black, 768990, old, 1989, 45600, 1, 1
+Buick, China, black, 768990, old, 1989, 45600, 2, 3
+Buick, China, black, 768990, old, 1989, 45600, 3, 4
+Buick, China, black, 768990, old, 1989, 45600, 5, 6
+Buick, China, black, 100400, old, 2004, 123456, 0, 1
+Buick, China, black, 100400, old, 2004, 123456, 1, 1
+Buick, China, black, 100400, old, 2004, 123456, 2, 3
+Buick, China, black, 100400, old, 2004, 123456, 3, 4
+Buick, China, black, 100400, old, 2004, 123456, 5, 6
+Buick, China, black, 100400, old, 2003, 125000, 0, 1
+Buick, China, black, 100400, old, 2003, 125000, 1, 1
+Buick, China, black, 100400, old, 2003, 125000, 2, 3
+Buick, China, black, 100400, old, 2003, 125000, 3, 4
+Buick, China, black, 100400, old, 2003, 125000, 5, 6
+Buick, China, black, 100400, old, 1989, 45600, 0, 1
+Buick, China, black, 100400, old, 1989, 45600, 1, 1
+Buick, China, black, 100400, old, 1989, 45600, 2, 3
+Buick, China, black, 100400, old, 1989, 45600, 3, 4
+Buick, China, black, 100400, old, 1989, 45600, 5, 6
+Buick, China, black, 678900, old, 2004, 123456, 0, 1
+Buick, China, black, 678900, old, 2004, 123456, 1, 1
+Buick, China, black, 678900, old, 2004, 123456, 2, 3
+Buick, China, black, 678900, old, 2004, 123456, 3, 4
+Buick, China, black, 678900, old, 2004, 123456, 5, 6
+Buick, China, black, 678900, old, 2003, 125000, 0, 1
+Buick, China, black, 678900, old, 2003, 125000, 1, 1
+Buick, China, black, 678900, old, 2003, 125000, 2, 3
+Buick, China, black, 678900, old, 2003, 125000, 3, 4
+Buick, China, black, 678900, old, 2003, 125000, 5, 6
+Buick, China, black, 678900, old, 1989, 45600, 0, 1
+Buick, China, black, 678900, old, 1989, 45600, 1, 1
+Buick, China, black, 678900, old, 1989, 45600, 2, 3
+Buick, China, black, 678900, old, 1989, 45600, 3, 4
+Buick, China, black, 678900, old, 1989, 45600, 5, 6
+Buick, China, white, 100000, old, 2004, 123456, 0, 1
+Buick, China, white, 100000, old, 2004, 123456, 1, 1
+Buick, China, white, 100000, old, 2004, 123456, 2, 3
+Buick, China, white, 100000, old, 2004, 123456, 3, 4
+Buick, China, white, 100000, old, 2004, 123456, 5, 6
+Buick, China, white, 100000, old, 2003, 125000, 0, 1
+Buick, China, white, 100000, old, 2003, 125000, 1, 1
+Buick, China, white, 100000, old, 2003, 125000, 2, 3
+Buick, China, white, 100000, old, 2003, 125000, 3, 4
+Buick, China, white, 100000, old, 2003, 125000, 5, 6
+Buick, China, white, 100000, old, 1989, 45600, 0, 1
+Buick, China, white, 100000, old, 1989, 45600, 1, 1
+Buick, China, white, 100000, old, 1989, 45600, 2, 3
+Buick, China, white, 100000, old, 1989, 45600, 3, 4
+Buick, China, white, 100000, old, 1989, 45600, 5, 6
+Buick, China, white, 1254900, old, 2004, 123456, 0, 1
+Buick, China, white, 1254900, old, 2004, 123456, 1, 1
+Buick, China, white, 1254900, old, 2004, 123456, 2, 3
+Buick, China, white, 1254900, old, 2004, 123456, 3, 4
+Buick, China, white, 1254900, old, 2004, 123456, 5, 6
+Buick, China, white, 1254900, old, 2003, 125000, 0, 1
+Buick, China, white, 1254900, old, 2003, 125000, 1, 1
+Buick, China, white, 1254900, old, 2003, 125000, 2, 3
+Buick, China, white, 1254900, old, 2003, 125000, 3, 4
+Buick, China, white, 1254900, old, 2003, 125000, 5, 6
+Buick, China, white, 1254900, old, 1989, 45600, 0, 1
+Buick, China, white, 1254900, old, 1989, 45600, 1, 1
+Buick, China, white, 1254900, old, 1989, 45600, 2, 3
+Buick, China, white, 1254900, old, 1989, 45600, 3, 4
+Buick, China, white, 1254900, old, 1989, 45600, 5, 6
+Buick, China, white, 345000, old, 2004, 123456, 0, 1
+Buick, China, white, 345000, old, 2004, 123456, 1, 1
+Buick, China, white, 345000, old, 2004, 123456, 2, 3
+Buick, China, white, 345000, old, 2004, 123456, 3, 4
+Buick, China, white, 345000, old, 2004, 123456, 5, 6
+Buick, China, white, 345000, old, 2003, 125000, 0, 1
+Buick, China, white, 345000, old, 2003, 125000, 1, 1
+Buick, China, white, 345000, old, 2003, 125000, 2, 3
+Buick, China, white, 345000, old, 2003, 125000, 3, 4
+Buick, China, white, 345000, old, 2003, 125000, 5, 6
+Buick, China, white, 345000, old, 1989, 45600, 0, 1
+Buick, China, white, 345000, old, 1989, 45600, 1, 1
+Buick, China, white, 345000, old, 1989, 45600, 2, 3
+Buick, China, white, 345000, old, 1989, 45600, 3, 4
+Buick, China, white, 345000, old, 1989, 45600, 5, 6
+Buick, China, white, 789500, old, 2004, 123456, 0, 1
+Honda, Germany, white, 232130, old, 1989, 45600, 3, 4
+Honda, Germany, white, 232130, old, 1989, 45600, 5, 6
+Honda, Germany, white, 121110, old, 2004, 123456, 0, 1
+Honda, Germany, white, 121110, old, 2004, 123456, 1, 1
+Honda, Germany, white, 121110, old, 2004, 123456, 2, 3
+Honda, Germany, white, 121110, old, 2004, 123456, 3, 4
+Honda, Germany, white, 121110, old, 2004, 123456, 5, 6
+Honda, Germany, white, 121110, old, 2003, 125000, 0, 1
+Honda, Germany, white, 121110, old, 2003, 125000, 1, 1
+Honda, Germany, white, 121110, old, 2003, 125000, 2, 3
+Honda, Germany, white, 121110, old, 2003, 125000, 3, 4
+Honda, Germany, white, 121110, old, 2003, 125000, 5, 6
+Honda, Germany, white, 121110, old, 1989, 45600, 0, 1
+Honda, Germany, white, 121110, old, 1989, 45600, 1, 1
+Honda, Germany, white, 121110, old, 1989, 45600, 2, 3
+Honda, Germany, white, 121110, old, 1989, 45600, 3, 4
+Honda, Germany, white, 121110, old, 1989, 45600, 5, 6
+Honda, Germany, white, 456700, old, 2004, 123456, 0, 1
+Honda, Germany, white, 456700, old, 2004, 123456, 1, 1
+Honda, Germany, white, 456700, old, 2004, 123456, 2, 3
+Honda, Germany, white, 456700, old, 2004, 123456, 3, 4
+Honda, Germany, white, 456700, old, 2004, 123456, 5, 6
+Honda, Germany, white, 456700, old, 2003, 125000, 0, 1
+Honda, Germany, white, 456700, old, 2003, 125000, 1, 1
+Honda, Germany, white, 456700, old, 2003, 125000, 2, 3
+Honda, Germany, white, 456700, old, 2003, 125000, 3, 4
+Honda, Germany, white, 456700, old, 2003, 125000, 5, 6
+Honda, Germany, white, 456700, old, 1989, 45600, 0, 1
+Honda, Germany, white, 456700, old, 1989, 45600, 1, 1
+Honda, Germany, white, 456700, old, 1989, 45600, 2, 3
+Honda, Germany, white, 456700, old, 1989, 45600, 3, 4
+Honda, Germany, white, 456700, old, 1989, 45600, 5, 6
+Honda, Germany, white, 1233000, old, 2004, 123456, 0, 1
+Honda, Germany, white, 1233000, old, 2004, 123456, 1, 1
+Honda, Germany, white, 1233000, old, 2004, 123456, 2, 3
+Honda, Germany, white, 1233000, old, 2004, 123456, 3, 4
+Honda, Germany, white, 1233000, old, 2004, 123456, 5, 6
+Honda, Germany, white, 1233000, old, 2003, 125000, 0, 1
+Honda, Germany, white, 1233000, old, 2003, 125000, 1, 1
+Honda, Germany, white, 1233000, old, 2003, 125000, 2, 3
+Honda, Germany, white, 1233000, old, 2003, 125000, 3, 4
+Honda, Germany, white, 1233000, old, 2003, 125000, 5, 6
+Honda, Germany, white, 1233000, old, 1989, 45600, 0, 1
+Honda, Germany, white, 1233000, old, 1989, 45600, 1, 1
+Honda, Germany, white, 1233000, old, 1989, 45600, 2, 3
+Honda, Germany, white, 1233000, old, 1989, 45600, 3, 4
+Honda, Germany, white, 1233000, old, 1989, 45600, 5, 6
+Honda, Germany, white, 5678000, old, 2004, 123456, 0, 1
+Honda, Germany, white, 5678000, old, 2004, 123456, 1, 1
+Honda, Germany, white, 5678000, old, 2004, 123456, 2, 3
+Honda, Germany, white, 5678000, old, 2004, 123456, 3, 4
+Honda, Germany, white, 5678000, old, 2004, 123456, 5, 6
+Honda, Germany, white, 5678000, old, 2003, 125000, 0, 1
+Honda, Germany, white, 5678000, old, 2003, 125000, 1, 1
+Honda, Germany, white, 5678000, old, 2003, 125000, 2, 3
+Honda, Germany, white, 5678000, old, 2003, 125000, 3, 4
+Honda, Germany, white, 5678000, old, 2003, 125000, 5, 6
+Honda, Germany, white, 5678000, old, 1989, 45600, 0, 1
+Honda, Germany, white, 5678000, old, 1989, 45600, 1, 1
+Honda, Germany, white, 5678000, old, 1989, 45600, 2, 3
+Honda, Germany, white, 5678000, old, 1989, 45600, 3, 4
+Honda, Germany, white, 5678000, old, 1989, 45600, 5, 6
+Honda, Germany, white, 768990, old, 2004, 123456, 0, 1
+Honda, Germany, white, 768990, old, 2004, 123456, 1, 1
+Honda, Germany, white, 768990, old, 2004, 123456, 2, 3
+Logan, Norway, white, 232130, old, 2004, 123456, 3, 4
+Logan, Norway, white, 232130, old, 2004, 123456, 5, 6
+Logan, Norway, white, 232130, old, 2003, 125000, 0, 1
+Logan, Norway, white, 232130, old, 2003, 125000, 1, 1
+Logan, Norway, white, 232130, old, 2003, 125000, 2, 3
+Logan, Norway, white, 232130, old, 2003, 125000, 3, 4
+Logan, Norway, white, 232130, old, 2003, 125000, 5, 6
+Logan, Norway, white, 232130, old, 1989, 45600, 0, 1
+Logan, Norway, white, 232130, old, 1989, 45600, 1, 1
+Logan, Norway, white, 232130, old, 1989, 45600, 2, 3
+Logan, Norway, white, 232130, old, 1989, 45600, 3, 4
+Logan, Norway, white, 232130, old, 1989, 45600, 5, 6
+Logan, Norway, white, 121110, old, 2004, 123456, 0, 1
+Logan, Norway, white, 121110, old, 2004, 123456, 1, 1
+Logan, Norway, white, 121110, old, 2004, 123456, 2, 3
+Logan, Norway, white, 121110, old, 2004, 123456, 3, 4
+Logan, Norway, white, 121110, old, 2004, 123456, 5, 6
+Logan, Norway, white, 121110, old, 2003, 125000, 0, 1
+Logan, Norway, white, 121110, old, 2003, 125000, 1, 1
+Logan, Norway, white, 121110, old, 2003, 125000, 2, 3
+Logan, Norway, white, 121110, old, 2003, 125000, 3, 4
+Logan, Norway, white, 121110, old, 2003, 125000, 5, 6
+Logan, Norway, white, 121110, old, 1989, 45600, 0, 1
+Logan, Norway, white, 121110, old, 1989, 45600, 1, 1
+Logan, Norway, white, 121110, old, 1989, 45600, 2, 3
+Logan, Norway, white, 121110, old, 1989, 45600, 3, 4
+Logan, Norway, white, 121110, old, 1989, 45600, 5, 6
+Logan, Norway, white, 456700, old, 2004, 123456, 0, 1
+Logan, Norway, white, 456700, old, 2004, 123456, 1, 1
+Logan, Norway, white, 456700, old, 2004, 123456, 2, 3
+Logan, Norway, white, 456700, old, 2004, 123456, 3, 4
+Logan, Norway, white, 456700, old, 2004, 123456, 5, 6
+Logan, Norway, white, 456700, old, 2003, 125000, 0, 1
+Logan, Norway, white, 456700, old, 2003, 125000, 1, 1
+Logan, Norway, white, 456700, old, 2003, 125000, 2, 3
+Logan, Norway, white, 456700, old, 2003, 125000, 3, 4
+Logan, Norway, white, 456700, old, 2003, 125000, 5, 6
+Logan, Norway, white, 456700, old, 1989, 45600, 0, 1
+Logan, Norway, white, 456700, old, 1989, 45600, 1, 1
+Logan, Norway, white, 456700, old, 1989, 45600, 2, 3
+Logan, Norway, white, 456700, old, 1989, 45600, 3, 4
+Logan, Norway, white, 456700, old, 1989, 45600, 5, 6
+Logan, Norway, white, 1233000, old, 2004, 123456, 0, 1
+Logan, Norway, white, 1233000, old, 2004, 123456, 1, 1
+Logan, Norway, white, 1233000, old, 2004, 123456, 2, 3
+Logan, Norway, white, 1233000, old, 2004, 123456, 3, 4
+Logan, Norway, white, 1233000, old, 2004, 123456, 5, 6
+Logan, Norway, white, 1233000, old, 2003, 125000, 0, 1
+Logan, Norway, white, 1233000, old, 2003, 125000, 1, 1
+Logan, Norway, white, 1233000, old, 2003, 125000, 2, 3
+Logan, Norway, white, 1233000, old, 2003, 125000, 3, 4
+Logan, Norway, white, 1233000, old, 2003, 125000, 5, 6
+Logan, Norway, white, 1233000, old, 1989, 45600, 0, 1
+Logan, Norway, white, 1233000, old, 1989, 45600, 1, 1
+Logan, Norway, white, 1233000, old, 1989, 45600, 2, 3
+Logan, Norway, white, 1233000, old, 1989, 45600, 3, 4
+Logan, Norway, white, 1233000, old, 1989, 45600, 5, 6
+Logan, Norway, white, 5678000, old, 2004, 123456, 0, 1
+Logan, Norway, white, 5678000, old, 2004, 123456, 1, 1
+Logan, Norway, white, 5678000, old, 2004, 123456, 2, 3
+Logan, Norway, white, 5678000, old, 2004, 123456, 3, 4
+Logan, Norway, white, 5678000, old, 2004, 123456, 5, 6
+Logan, Norway, white, 5678000, old, 2003, 125000, 0, 1
+Logan, Norway, white, 5678000, old, 2003, 125000, 1, 1
+Logan, Norway, white, 5678000, old, 2003, 125000, 2, 3
+Logan, Norway, white, 5678000, old, 2003, 125000, 3, 4
+Logan, Norway, white, 5678000, old, 2003, 125000, 5, 6
+Logan, Norway, white, 5678000, old, 1989, 45600, 0, 1
+Logan, Norway, white, 5678000, old, 1989, 45600, 1, 1
+Logan, Norway, white, 5678000, old, 1989, 45600, 2, 3
+Logan, Norway, white, 5678000, old, 1989, 45600, 3, 4
+Logan, Norway, white, 5678000, old, 1989, 45600, 5, 6
+Logan, Norway, white, 768990, old, 2004, 123456, 0, 1
+Logan, Norway, white, 768990, old, 2004, 123456, 1, 1
+Logan, Norway, white, 768990, old, 2004, 123456, 2, 3
+Logan, Norway, white, 768990, old, 2004, 123456, 3, 4
+Logan, Norway, white, 768990, old, 2004, 123456, 5, 6
+Logan, Norway, white, 768990, old, 2003, 125000, 0, 1
+Logan, Norway, white, 768990, old, 2003, 125000, 1, 1
+Logan, Norway, white, 768990, old, 2003, 125000, 2, 3
+Logan, Norway, white, 768990, old, 2003, 125000, 3, 4
+Logan, Norway, white, 768990, old, 2003, 125000, 5, 6
+Logan, Norway, white, 768990, old, 1989, 45600, 0, 1
+Logan, Norway, white, 768990, old, 1989, 45600, 1, 1
+Logan, Norway, white, 768990, old, 1989, 45600, 2, 3
+Logan, Norway, white, 768990, old, 1989, 45600, 3, 4
+Logan, Norway, white, 768990, old, 1989, 45600, 5, 6
+Logan, Norway, white, 100400, old, 2004, 123456, 0, 1
+Logan, Norway, white, 100400, old, 2004, 123456, 1, 1
+Logan, Norway, white, 100400, old, 2004, 123456, 2, 3
+Logan, Norway, white, 100400, old, 2004, 123456, 3, 4
+Logan, Norway, white, 100400, old, 2004, 123456, 5, 6
+Logan, Norway, white, 100400, old, 2003, 125000, 0, 1
+Logan, Norway, white, 100400, old, 2003, 125000, 1, 1
+Logan, Norway, white, 100400, old, 2003, 125000, 2, 3
+Logan, Norway, white, 100400, old, 2003, 125000, 3, 4
+Logan, Norway, white, 100400, old, 2003, 125000, 5, 6
+Logan, Norway, white, 100400, old, 1989, 45600, 0, 1
+Logan, Norway, white, 100400, old, 1989, 45600, 1, 1
+Logan, Norway, white, 100400, old, 1989, 45600, 2, 3
+Logan, Norway, white, 100400, old, 1989, 45600, 3, 4
+Logan, Norway, white, 100400, old, 1989, 45600, 5, 6
+Logan, Norway, white, 678900, old, 2004, 123456, 0, 1
+Logan, Norway, white, 678900, old, 2004, 123456, 1, 1
+Logan, Norway, white, 678900, old, 2004, 123456, 2, 3
+Logan, Norway, white, 678900, old, 2004, 123456, 3, 4
+Logan, Norway, white, 678900, old, 2004, 123456, 5, 6
+Logan, Norway, white, 678900, old, 2003, 125000, 0, 1
+Logan, Norway, white, 678900, old, 2003, 125000, 1, 1
+Logan, Norway, white, 678900, old, 2003, 125000, 2, 3
+Logan, Norway, white, 678900, old, 2003, 125000, 3, 4
+Logan, Norway, white, 678900, old, 2003, 125000, 5, 6
+Logan, Norway, white, 678900, old, 1989, 45600, 0, 1
+Logan, Norway, white, 678900, old, 1989, 45600, 1, 1
+Logan, Norway, white, 678900, old, 1989, 45600, 2, 3
+Logan, Norway, white, 678900, old, 1989, 45600, 3, 4
+Logan, Norway, white, 678900, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 100000, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 100000, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 100000, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 100000, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 100000, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 100000, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 100000, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 100000, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 100000, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 100000, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 100000, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 100000, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 100000, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 100000, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 100000, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 1254900, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 1254900, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 1254900, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 1254900, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 1254900, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 1254900, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 1254900, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 1254900, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 1254900, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 1254900, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 1254900, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 1254900, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 1254900, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 1254900, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 1254900, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 345000, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 345000, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 345000, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 345000, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 345000, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 345000, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 345000, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 345000, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 345000, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 345000, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 345000, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 345000, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 345000, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 345000, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 345000, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 789500, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 789500, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 789500, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 789500, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 789500, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 789500, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 789500, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 789500, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 789500, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 789500, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 789500, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 789500, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 789500, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 789500, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 789500, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 232130, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 232130, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 232130, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 232130, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 232130, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 232130, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 232130, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 232130, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 232130, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 232130, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 232130, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 232130, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 232130, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 232130, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 232130, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 121110, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 121110, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 121110, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 121110, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 121110, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 121110, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 121110, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 121110, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 121110, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 121110, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 121110, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 121110, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 121110, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 121110, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 121110, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 456700, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 456700, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 456700, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 456700, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 456700, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 456700, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 456700, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 456700, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 456700, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 456700, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 456700, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 456700, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 456700, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 456700, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 456700, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 1233000, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 1233000, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 1233000, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 1233000, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 1233000, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 1233000, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 1233000, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 1233000, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 1233000, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 1233000, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 1233000, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 1233000, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 1233000, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 1233000, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 1233000, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 5678000, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 5678000, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 5678000, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 5678000, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 5678000, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 5678000, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 5678000, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 5678000, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 5678000, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 5678000, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 5678000, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 5678000, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 5678000, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 5678000, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 5678000, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 768990, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 768990, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 768990, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 768990, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 768990, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 768990, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 768990, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 768990, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 768990, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 768990, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 768990, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 768990, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 768990, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 768990, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 768990, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 100400, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 100400, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 100400, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 100400, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 100400, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 100400, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 100400, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 100400, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 100400, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 100400, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 100400, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 100400, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 100400, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 100400, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 100400, old, 1989, 45600, 5, 6
+Logan, Norway, pink, 678900, old, 2004, 123456, 0, 1
+Logan, Norway, pink, 678900, old, 2004, 123456, 1, 1
+Logan, Norway, pink, 678900, old, 2004, 123456, 2, 3
+Logan, Norway, pink, 678900, old, 2004, 123456, 3, 4
+Logan, Norway, pink, 678900, old, 2004, 123456, 5, 6
+Logan, Norway, pink, 678900, old, 2003, 125000, 0, 1
+Logan, Norway, pink, 678900, old, 2003, 125000, 1, 1
+Logan, Norway, pink, 678900, old, 2003, 125000, 2, 3
+Logan, Norway, pink, 678900, old, 2003, 125000, 3, 4
+Logan, Norway, pink, 678900, old, 2003, 125000, 5, 6
+Logan, Norway, pink, 678900, old, 1989, 45600, 0, 1
+Logan, Norway, pink, 678900, old, 1989, 45600, 1, 1
+Logan, Norway, pink, 678900, old, 1989, 45600, 2, 3
+Logan, Norway, pink, 678900, old, 1989, 45600, 3, 4
+Logan, Norway, pink, 678900, old, 1989, 45600, 5, 6
+Logan, Norway, red, 100000, old, 2004, 123456, 0, 1
+Logan, Norway, red, 100000, old, 2004, 123456, 1, 1
+Logan, Norway, red, 100000, old, 2004, 123456, 2, 3
+Logan, Norway, red, 100000, old, 2004, 123456, 3, 4
+Logan, Norway, red, 100000, old, 2004, 123456, 5, 6
+Logan, Norway, red, 100000, old, 2003, 125000, 0, 1
+Logan, Norway, red, 100000, old, 2003, 125000, 1, 1
+Logan, Norway, red, 100000, old, 2003, 125000, 2, 3
+Logan, Norway, red, 100000, old, 2003, 125000, 3, 4
+Logan, Norway, red, 100000, old, 2003, 125000, 5, 6
+Logan, Norway, red, 100000, old, 1989, 45600, 0, 1
+Logan, Norway, red, 100000, old, 1989, 45600, 1, 1
+Logan, Norway, red, 100000, old, 1989, 45600, 2, 3
+Logan, Norway, red, 100000, old, 1989, 45600, 3, 4
+Logan, Norway, red, 100000, old, 1989, 45600, 5, 6
+Logan, Norway, red, 1254900, old, 2004, 123456, 0, 1
+Logan, Norway, red, 1254900, old, 2004, 123456, 1, 1
+Logan, Norway, red, 1254900, old, 2004, 123456, 2, 3
+Logan, Norway, red, 1254900, old, 2004, 123456, 3, 4
+Logan, Norway, red, 1254900, old, 2004, 123456, 5, 6
+Logan, Norway, red, 1254900, old, 2003, 125000, 0, 1
+Logan, Norway, red, 1254900, old, 2003, 125000, 1, 1
+Logan, Norway, red, 1254900, old, 2003, 125000, 2, 3
+Logan, Norway, red, 1254900, old, 2003, 125000, 3, 4
+Logan, Norway, red, 1254900, old, 2003, 125000, 5, 6
+Logan, Norway, red, 1254900, old, 1989, 45600, 0, 1
+Logan, Norway, red, 1254900, old, 1989, 45600, 1, 1
+Logan, Norway, red, 1254900, old, 1989, 45600, 2, 3
+Logan, Norway, red, 1254900, old, 1989, 45600, 3, 4
+Logan, Norway, red, 1254900, old, 1989, 45600, 5, 6
+Logan, Norway, red, 345000, old, 2004, 123456, 0, 1
+Logan, Norway, red, 345000, old, 2004, 123456, 1, 1
+Logan, Norway, red, 345000, old, 2004, 123456, 2, 3
+Logan, Norway, red, 345000, old, 2004, 123456, 3, 4
+Logan, Norway, red, 345000, old, 2004, 123456, 5, 6
+Logan, Norway, red, 345000, old, 2003, 125000, 0, 1
+Logan, Norway, red, 345000, old, 2003, 125000, 1, 1
+Logan, Norway, red, 345000, old, 2003, 125000, 2, 3
+Logan, Norway, red, 345000, old, 2003, 125000, 3, 4
+Logan, Norway, red, 345000, old, 2003, 125000, 5, 6
+Logan, Norway, red, 345000, old, 1989, 45600, 0, 1
+Logan, Norway, red, 345000, old, 1989, 45600, 1, 1
+Logan, Norway, red, 345000, old, 1989, 45600, 2, 3
+Logan, Norway, red, 345000, old, 1989, 45600, 3, 4
+Logan, Norway, red, 345000, old, 1989, 45600, 5, 6
+Logan, Norway, red, 789500, old, 2004, 123456, 0, 1
+Logan, Norway, red, 789500, old, 2004, 123456, 1, 1
+Logan, Norway, red, 789500, old, 2004, 123456, 2, 3
+Logan, Norway, red, 789500, old, 2004, 123456, 3, 4
+Logan, Norway, red, 789500, old, 2004, 123456, 5, 6
+Logan, Norway, red, 789500, old, 2003, 125000, 0, 1
+Logan, Norway, white, 232130, old, 2004, 123456, 3, 4
+Logan, Norway, white, 232130, old, 2004, 123456, 5, 6
+Logan, Norway, white, 232130, old, 2003, 125000, 0, 1
+Logan, Norway, white, 232130, old, 2003, 125000, 1, 1
+Logan, Norway, white, 232130, old, 2003, 125000, 2, 3
+Logan, Norway, white, 232130, old, 2003, 125000, 3, 4
+Logan, Norway, white, 232130, old, 2003, 125000, 5, 6
+Logan, Norway, white, 232130, old, 1989, 45600, 0, 1
+Logan, Norway, white, 232130, old, 1989, 45600, 1, 1
+Logan, Norway, white, 232130, old, 1989, 45600, 2, 3
+Logan, Norway, white, 232130, old, 1989, 45600, 3, 4
+Logan, Norway, white, 232130, old, 1989, 45600, 5, 6
+Logan, Norway, white, 121110, old, 2004, 123456, 0, 1
+Logan, Norway, white, 121110, old, 2004, 123456, 1, 1
+Logan, Norway, white, 121110, old, 2004, 123456, 2, 3
+Logan, Norway, white, 121110, old, 2004, 123456, 3, 4
+Logan, Norway, white, 121110, old, 2004, 123456, 5, 6
+Logan, Norway, white, 121110, old, 2003, 125000, 0, 1
+Logan, Norway, white, 121110, old, 2003, 125000, 1, 1
+Logan, Norway, white, 121110, old, 2003, 125000, 2, 3
+Logan, Norway, white, 121110, old, 2003, 125000, 3, 4
+Logan, Norway, white, 121110, old, 2003, 125000, 5, 6
+Logan, Norway, white, 121110, old, 1989, 45600, 0, 1
+Logan, Norway, white, 121110, old, 1989, 45600, 1, 1
+Logan, Norway, white, 121110, old, 1989, 45600, 2, 3
+Logan, Norway, white, 121110, old, 1989, 45600, 3, 4
+Logan, Norway, white, 121110, old, 1989, 45600, 5, 6
+Logan, Norway, white, 456700, old, 2004, 123456, 0, 1
+Logan, Norway, white, 456700, old, 2004, 123456, 1, 1
+Logan, Norway, white, 456700, old, 2004, 123456, 2, 3
+Logan, Norway, white, 456700, old, 2004, 123456, 3, 4
+Logan, Norway, white, 456700, old, 2004, 123456, 5, 6
+Logan, Norway, white, 456700, old, 2003, 125000, 0, 1
+Logan, Norway, white, 456700, old, 2003, 125000, 1, 1
+Logan, Norway, white, 456700, old, 2003, 125000, 2, 3
+Logan, Norway, white, 456700, old, 2003, 125000, 3, 4
+Logan, Norway, white, 456700, old, 2003, 125000, 5, 6
+Logan, Norway, white, 456700, old, 1989, 45600, 0, 1
+Logan, Norway, white, 456700, old, 1989, 45600, 1, 1
+Logan, Norway, white, 456700, old, 1989, 45600, 2, 3
+Logan, Norway, white, 456700, old, 1989, 45600, 3, 4
+Logan, Norway, white, 456700, old, 1989, 45600, 5, 6
+Logan, Norway, white, 1233000, old, 2004, 123456, 0, 1
+Logan, Norway, white, 1233000, old, 2004, 123456, 1, 1
+Logan, Norway, white, 1233000, old, 2004, 123456, 2, 3
